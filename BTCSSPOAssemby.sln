@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTCSSPOAssemby", "BTCSSPOAssemby\BTCSSPOAssemby.csproj", "{A98BF974-D837-4CC0-9ABA-1BADA32E6B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A98BF974-D837-4CC0-9ABA-1BADA32E6B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98BF974-D837-4CC0-9ABA-1BADA32E6B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98BF974-D837-4CC0-9ABA-1BADA32E6B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98BF974-D837-4CC0-9ABA-1BADA32E6B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A76EA57A-E3C1-46A5-8CA8-52FE7188FEC0}
+	EndGlobalSection
+EndGlobal
