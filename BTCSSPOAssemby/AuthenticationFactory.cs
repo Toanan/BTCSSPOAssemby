@@ -2,7 +2,7 @@
 using System.Net;
 using OfficeDevPnP.Core;
 
-namespace BTCSSPOAssemby
+namespace Btcs.Authentication
 {
     public static class AuthenticationFactory
     {

@@ -4,7 +4,7 @@ using Microsoft.SharePoint.Client;
 using CredentialManagement;
 using OfficeDevPnP.Core.Utilities;
 
-namespace BTCSSPOAssemby
+namespace Btcs.Credentials
 {
     public static class CredentialFactory
     {
